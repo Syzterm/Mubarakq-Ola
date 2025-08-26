@@ -4,7 +4,7 @@ and he has a degree
 as an ustaz 
 in the field of quranic recitation */
 body{
-    background-image: url(/Attachments/Images/John\ Cena.jpg);
+    background-image: url(Attachments/Images/John\ Cena.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left top;
@@ -47,4 +47,5 @@ button > a {
 video {
     width: 700px;
     height: 500px;
+
 }
