@@ -1,0 +1,50 @@
+/*Mubarakq is a good boy
+he likes serving God 
+and he has a degree 
+as an ustaz 
+in the field of quranic recitation */
+body{
+    background-image: url(/Attachments/Images/John\ Cena.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left top;
+    background-attachment: scroll;
+    backdrop-filter: blur(5px);
+}
+h1 {
+ color: rgb(255, 22, 22);
+ 
+}
+p {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    font-weight: 800;
+}
+h2 {
+    color: orangered;
+    font-size: xx-large;
+    font-weight: bold;
+}
+img {
+    position: static;   
+}
+div {
+    border: 10px;
+    border-radius: 20px;
+    padding: 50px;
+}
+a {
+ color: rgb(60, 237, 172);
+ font-size: xx-large;
+}
+figure {
+    color: white;
+}
+button > a {
+    color: black;
+}
+video {
+    width: 700px;
+    height: 500px;
+}
